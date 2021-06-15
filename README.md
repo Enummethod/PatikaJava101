@@ -48,7 +48,7 @@
 47-Matris Transpozunu Bulma
 48-Sayı Tahmini Oyunu
 49-Palindomik Kelimeleri Bulan Program
-50- Bitirme Projesi (Mayın Tarlası Oyunu)
+50- Bitirme Projesi (Mayın Tarlası Oyunu).
 
 
 
