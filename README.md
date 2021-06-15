@@ -1,7 +1,7 @@
 # PatikaJava101
 1-Not Ortalaması
 2-KDV Tutarı Hesaplayan Program
-3-Dik Üçgen Hipotenüs Bulan Program
+3-Dik Üçgenin Hipotenüsünü Bulan Program
 4-Taksimetre Hesaplayan Program
 5-Dairenin Alanını ve Çevresini Bulan Program
 6-Vucut Kitle İndeksini Hesaplayan Program
