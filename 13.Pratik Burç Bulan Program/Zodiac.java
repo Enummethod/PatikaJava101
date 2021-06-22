@@ -8,7 +8,7 @@ public class Zodiac {
 
 	public static void main(String[] args) { 
 	 sc = new Scanner(System.in);
-	 System.out.print("Enter Month of Birth (please turn off the capslock..):");
+	 System.out.print("Enter Month of Birth:");
 	 String month = sc.nextLine();
 	 System.out.print("Enter Day of Birth :");
 	 int day= sc.nextInt();
@@ -22,7 +22,7 @@ public class Zodiac {
 	    	System.out.println("Your horoscope Aquarius.");
 	    }
 	    break;
-	  case "february","February","FEBRUARY","ÞUBAT","þubat","Þubat":
+	  case "february","February","FEBRUARY","ÃžUBAT","Ã¾ubat","Ãžubat":
 		    if(day<=18){
 		    	System.out.println("Your horoscope is Aquarius.");
 		    }
@@ -40,7 +40,7 @@ public class Zodiac {
 		    	System.out.println("Your horoscope is Aries.");
 		    }
 		    break;
-	  case "april","April","APRÝL","Nisan","nisan","NÝSAN":
+	  case "april","April","APRÃL","Nisan","nisan","NÃSAN":
 		    if(day<=20){
 		    	System.out.println("Your horoscope is Aries.");
 		    }
@@ -49,7 +49,7 @@ public class Zodiac {
 		    	System.out.println("Your horoscope is Taurus.");
 		    }
 		    break;
-	  case "may","May","MAY","MAYIS","Mayýs","mayýs":
+	  case "may","May","MAY","MAYIS","MayÃ½s","mayÃ½s":
 		    if(day<=20){
 		    	System.out.println("Your horoscope is Taurus.");
 		    }
@@ -58,7 +58,7 @@ public class Zodiac {
 		    	System.out.println("Your horoscope is Gemini.");
 		    }
 		    break;
-	  case "JUNE","June","june","haziran","Haziran", "HAZÝRAN":
+	  case "JUNE","June","june","haziran","Haziran", "HAZÃRAN":
 		    if(day<=21){
 		    	System.out.println("Your horoscope is Gemini.");
 		    }
@@ -76,7 +76,7 @@ public class Zodiac {
 		    	System.out.println("Your horoscope is Leo.");
 		    }
 		    break;
-	  case "aðustos","AÐUSTOS","Aðustos","august","August","AUGUST":
+	  case "aÃ°ustos","AÃUSTOS","AÃ°ustos","august","August","AUGUST":
 		    if(day<=22){
 		    	System.out.println("Your horoscope is Leo.");
 		    }
@@ -85,7 +85,7 @@ public class Zodiac {
 		    	System.out.println("Your horoscope is Virgo.");
 		    }
 		    break;
-	  case "eylül","Eylül","EYLÜL","September","september","SEPTEMBER":
+	  case "eylÃ¼l","EylÃ¼l","EYLÃœL","September","september","SEPTEMBER":
 		    if(day<=22){
 		    	System.out.println("Your horoscope is Virgo.");
 		    }
@@ -94,7 +94,7 @@ public class Zodiac {
 		    	System.out.println("Your horoscope is Libra.");
 		    }
 		    break;
-	  case "ekim","EKÝM","Ekim","October","october","OTOBER ":
+	  case "ekim","EKÃM","Ekim","October","october","OTOBER ":
 		    if(day<=23){
 		    	System.out.println("Your horoscope is Libra.");
 		    }
@@ -103,7 +103,7 @@ public class Zodiac {
 		    	System.out.println("Your horoscope is Scorpio.");
 		    }
 		    break;
-	  case "November","november","NOVEMBER","KASIM","Kasým","kasým":
+	  case "November","november","NOVEMBER","KASIM","KasÃ½m","kasÃ½m":
 		    if(day<=22){
 		    	System.out.println("Your horoscope is Scorpio.");
 		    }
@@ -112,7 +112,7 @@ public class Zodiac {
 		    	System.out.println("Your horoscope is Sagittarius.");
 		    }
 		    break;
-	  case "aralýk","Aralýk","ARALIK","December","december","DECEMBER" :
+	  case "aralÃ½k","AralÃ½k","ARALIK","December","december","DECEMBER" :
 		    if(day<=21){
 		    	System.out.println("Your horoscope is Sagittarius.");
 		    }
