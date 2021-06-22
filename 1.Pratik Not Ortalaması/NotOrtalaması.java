@@ -1,7 +1,7 @@
-package NotOrtalamasý;
+package GradeAverage;
 import java.util.Scanner;
 
-public class NotOrtalamasý {
+public class GradeAverage {
 
 		     private static Scanner sc;
 
