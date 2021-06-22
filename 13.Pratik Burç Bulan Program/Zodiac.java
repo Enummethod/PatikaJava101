@@ -1,11 +1,7 @@
 package Zodiac;
-
 import java.util.Scanner;
-
 public class Zodiac {
-	
 	private static Scanner sc;
-
 	public static void main(String[] args) { 
 	 sc = new Scanner(System.in);
 	 System.out.print("Enter Month of Birth:");
