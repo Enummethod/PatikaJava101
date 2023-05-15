@@ -1,16 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package patika.dev;
 
 import java.util.Arrays;
 
-/**
- *
- * @author ACER
- */
 public class DiziElemanlarininFrekansiniBulma {
 
     public static void main(String[] args) {
